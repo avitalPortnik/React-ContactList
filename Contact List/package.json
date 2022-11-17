@@ -6,7 +6,7 @@
     "react": "^16.0.0-rc.3",
     "react-bootstrap-dropdown-menu": "^1.1.15",
     "react-dom": "^16.0.0-rc.3",
-    "react-scripts": "1.0.13"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
